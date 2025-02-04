@@ -31,6 +31,21 @@ I love building **scalable web applications** and exploring new technologies. Wh
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somaptiahmed&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somaptiahmed&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somaptiahmed&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
+
+---
+
 ## 📫 Connect with Me  
   
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Somaptiahmed)
