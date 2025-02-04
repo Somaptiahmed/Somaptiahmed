@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/d0nnGKKw/web.jpg" width="150" />
+  <img src="https://i.ibb.co/d0nnGKKw/web.jpg" width="150" />
 </p>
 
 # Hey 👋 What's up?
@@ -25,4 +25,17 @@ I love building **scalable web applications** and exploring new technologies. Wh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/dev
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](your-portfolio-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-link)
+
+---
+
+Thanks for stopping by! 🚀✨
