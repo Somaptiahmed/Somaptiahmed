@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/26GmKvd/faiza.webp" width="150" />
+  <img src="https://i.ibb.co.com/d0nnGKKw/web.jpg" width="150" />
 </p>
 
 # Hey 👋 What's up?
