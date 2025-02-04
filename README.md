@@ -32,9 +32,8 @@ I love building **scalable web applications** and exploring new technologies. Wh
 ---
 
 ## 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](your-portfolio-link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-link)
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Somaptiahmed)
 
 ---
 
